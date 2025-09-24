@@ -1,1 +1,1 @@
-# mon programme à pour but d'effectuer une addition de deux nombres inférieur à zéro tout en fesant une addition répéter par un
+# mon programme à pour but d'effectuer une multiplication de deux nombres inférieur à zéro tout en fesant une addition répéter par un
